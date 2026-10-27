@@ -16,6 +16,7 @@ android {
         versionName = "1.0.0"
     }
 
+<<<<<<< HEAD
     // Use the same JVM target for Java and Kotlin compilation.
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
@@ -26,6 +27,8 @@ android {
         jvmTarget = "17"
     }
 
+=======
+>>>>>>> 37ed8919db86e477e0eda501aad97188f38c46a8
     buildFeatures { compose = true }
 }
 
